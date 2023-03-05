@@ -1,5 +1,5 @@
 Welcome to MyProject
 
-Author: Federico
+Author: Federico Guerrero
 
 Twitter: @fedearg21
